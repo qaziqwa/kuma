@@ -29,7 +29,7 @@ Development
 :Code:          https://github.com/mozilla/kuma
 :Issues:        `P1 Bugs`_ (to be fixed in 90 days)
 
-                `P2 Bugs`_ (to be fixed in 180 days)
+                `P2 Bugs`_ (to be fixed in 90 days)
 
                 `All developer.mozilla.org bugs`_
 
